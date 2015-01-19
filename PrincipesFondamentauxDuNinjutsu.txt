@@ -1,0 +1,16 @@
+DESIGN PATTERN
+
+	  > Principe N°1 = Encapsulate what varies = Encapsuler ce qui varie
+         / 
+STRATEGY -> Principe N°2 = Favor composition over inheritance = Favoriser la composition à l'héritage 
+	 \
+	  > Principe N°3 = Program to an interface not an implementation = Programme pour une interface et non pour une implémentation
+
+
+DECORATOR -> Principe N°4 = Class should be open for extension but closed for modification
+
+OBSERVER -> Principe N°5 = Strive for loosing coupled designs between projects that interact = Favoriser un faible couplage entre les objets qui interragissent
+
+FACTORY METHOD -> Principe N°6 = Depends on abstractions Do not depend on concrete class = Dependre d'abstractions, ne pas dependre de classe concrete
+
+TEMPLATE METHOD ->  Principe N°7 = Hollywood = Don't call us we'll call you
