@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<releves jour ="26/11" heure="19h48">
+
+	<releve nomSkipper="Loick Peyron" date="10/11/2014" heure="05:08:32"/>
+	<releve nomSkipper="Yann Guichard" date="10/11/2014" heure="19:18:46" />
+	<releve nomSkipper="Sebastien Josse" date="11/11/2014" heure="04:47:09" />
+	<releve nomSkipper="Lionel Lemonchoix" date="11/11/2014" heure="07:44:50" />
+	<releve nomSkipper="Sidney Gavinet" date="11/11/2014" heure="09:15:24" />
+	<releve nomSkipper="Francis Joyon" date="11/11/2014" heure="18:42:04" />
+	<releve nomSkipper="Yann Elies" date="11/11/2014" heure="19:48:15" />
+	<releve nomSkipper="Thomas Coville"  etat="abandon" />
+
+	<releve nomSkipper="Francois Gabart" date="14/11/2014" heure="18:38:55" />
+	<releve nomSkipper="Jeremie Beyou" date="15/11/2014" heure="02:11:18" />
+	<releve nomSkipper="Marc Guillemot" date="15/11/2014" heure="15:59:20" />
+	<releve nomSkipper="Armel Tripon" date="16/11/2014" heure="04:04:04" />
+	<releve nomSkipper="Louis Burton" date="16/11/2014" heure="15:33:44" />
+	<releve nomSkipper="Alessandro Di Benedetto" date="19/11/2014" heure="01:04:30" />
+	<releve nomSkipper="Tanguy De Lamotte" date="19/11/2014" heure="05:28:13" />
+	<releve nomSkipper="Bertrand De Broc"  etat="abandon" />
+	<releve nomSkipper="Vincent Riou" etat="abandon" />
+
+	<releve nomSkipper="Erwan Leroux" date="13/11/2014" heure="19:13:55" />
+	<releve nomSkipper="Lalou Roucayrol" date="14/11/2014" heure="11:29:10" />
+	<releve nomSkipper="Gilles Lamire" date="15/11/2014" heure="00:44:37" />
+	<releve nomSkipper="Yves Leblevec" date="15/11/2014" heure="01:10:18" />
+	<releve nomSkipper="Etienne Hochede" date="20/11/2014" heure="23:37:11" />
+	<releve nomSkipper="Erik Nigon"  etat="abandon" />
+	<releve nomSkipper="Alain Delhumeau"  etat="abandon" />
+	<releve nomSkipper="Pierre Antoine"  etat="abandon" />
+	<releve nomSkipper="Gilles Buekenhout"  etat="abandon" />
+	<releve nomSkipper="Loic Fequet"  etat="abandon" />
+	<releve nomSkipper="Herve De carlan"  etat="abandon" />
+
+	<releve nomSkipper="Alex Pella" date="19/11/2014" heure="07:47:08" />
+	<releve nomSkipper="Thibaut Vauchel-Camus" date="19/11/2014" heure="18:33:41" />
+	<releve nomSkipper="Kito De Pavant" date="19/11/2014" heure="19:07:03" />
+	<releve nomSkipper="Stephane Le Diraison" date="19/11/2014" heure="22:21:37" />
+	<releve nomSkipper="Pierre Brasseur" date="20/11/2014" heure="04:27:44" />
+	<releve nomSkipper="Miranda Merron" date="20/11/2014" heure="17:17:25" />
+	<releve nomSkipper="Yannick Bestaven" date="19/11/2014" heure="20:34:37" />
+	<releve nomSkipper="Damien Seguin" date="20/11/2014" heure="23:19:21" />
+	<releve nomSkipper="Fabrice Amadeo" date="20/11/2014" heure="23:36:32" />
+	<releve nomSkipper="Giancarlo Pedote" date="21/11/2014" heure="04:26:43" />
+	<releve nomSkipper="Valentin Lemarchand" date="21/11/2014" heure="11:29:48" />
+	<releve nomSkipper="Bertrand Delesne" date="21/11/2014" heure="14:55:39" />
+	<releve nomSkipper="Jean-Christophe Caso" date="21/11/2014" heure="15:53:11" />
+	<releve nomSkipper="Pierre-Yves Lautrou" date="21/11/2014" heure="18:16:30" />
+	<releve nomSkipper="Michel Kleinjans" date="21/11/2014" heure="20:06:36" />
+	<releve nomSkipper="Halvard Mabire" date="22/11/2014" heure="04:09:56" />
+	<releve nomSkipper="Jean-Edouard Criquioche" date="22/11/2014" heure="04:34:20" />
+	<releve nomSkipper="Jean Galfione" date="22/11/2014" heure="13:19:32" />
+	<releve nomSkipper="Juliette Petres" date="22/11/2014" heure="13:52:07" />
+	<releve nomSkipper="Emmanuel Hamez" date="22/11/2014" heure="22:07:09" />
+	<releve nomSkipper="Brieuc Maisonneuve" date="23/11/2014" heure="07:30:15" />
+	<releve nomSkipper="Dominique Rivard" date="23/11/2014" heure="13:19:46" />
+	<releve nomSkipper="Maxime Sorel" date="23/11/2014" heure="18:42:00" />
+	<releve nomSkipper="Patrice Bougard" date="23/11/2014" heure="19:24:06" />
+	<releve nomSkipper="Lionel Regnier" date="23/11/2014" heure="20:24:03" />
+	<releve nomSkipper="Rodolphe Sepho" date="24/11/2014" heure="08:33:11" />
+	<releve nomSkipper="Philippe Fiston" date="24/11/2014" heure="20:04:48" />
+	<releve nomSkipper="Nicolas Thomas" date="26/11/2014" heure="08:32:08" />
+	<releve nomSkipper="Olivier Roussey" distanceArrivee="15.27" />
+	<releve nomSkipper="Antoine Michel" distanceArrivee="23.16" />
+	<releve nomSkipper="Paul Hignard" distanceArrivee="28.89" />
+	<releve nomSkipper="Vincent Lantin" distanceArrivee="800.39" />
+	<releve nomSkipper="Alan Roura"  etat="abandon" />
+	<releve nomSkipper="Christophe Coatnoan"  etat="abandon" />
+	<releve nomSkipper="Nicolas Troussel"  etat="abandon" />
+	<releve nomSkipper="Arnaud Boissieres"  etat="abandon" />
+	<releve nomSkipper="Louis Duc"  etat="abandon" />
+	<releve nomSkipper="Phillippa Hutton Square"  etat="abandon" />
+	<releve nomSkipper="Marc Lepesqueux"  etat="abandon" />
+	<releve nomSkipper="Sebastien Rogues"  etat="abandon" />
+	<releve nomSkipper="Thierry Bouchard"  etat="abandon" />
+	<releve nomSkipper="Conrad Humphreys"  etat="abandon" />
+	<releve nomSkipper="Francois Angoulvant"  etat="abandon" />
+
+	<releve nomSkipper="Anne Caseneuve" date="19/11/2014" heure="21:06:03" />
+	<releve nomSkipper="Andrea Mura" date="22/11/2014" heure="16:19:36"  />
+	<releve nomSkipper="Robin Knox-Johnston" date="22/11/2014" heure="21:52:22"  />
+	<releve nomSkipper="Wilfrid Clerton" date="23/11/2014" heure="02:19:33"  />
+	<releve nomSkipper="Jean-Paul Froc" date="24/11/2014" heure="04:42:21" />
+	<releve nomSkipper="Willy Bissainte" date="24/11/2014" heure="05:34:02" />
+	<releve nomSkipper="Charlie Capelle" date="25/11/2014" heure="02:27:24" />
+	<releve nomSkipper="Pierre-Yves Chatelin" date="25/11/2014" heure="11:06:24" />
+	<releve nomSkipper="Ari Huusela" distanceArrivee="21.89" />
+	<releve nomSkipper="Daniel Ecalard" distanceArrivee="75.20" />
+	<releve nomSkipper="Pierrick Tollemer" distanceArrivee="188.25" />
+	<releve nomSkipper="Luc Coquelin" distanceArrivee="295.66" />
+	<releve nomSkipper="Christophe Souchaud" distanceArrivee="299.19" />
+	<releve nomSkipper="Eric Jail" distanceArrivee="656.57" />
+	<releve nomSkipper="Ricardo Diniz"  etat="abandon" />
+	<releve nomSkipper="Bob Escoffier"  etat="abandon" />
+	<releve nomSkipper="Julien Mabit"  etat="abandon" />
+	<releve nomSkipper="Benjamin Hardouin"  etat="abandon" />
+	<releve nomSkipper="Patrick Morvan"  etat="abandon" />
+	<releve nomSkipper="Nils Boyer"  etat="abandon" />
+</releves>
+

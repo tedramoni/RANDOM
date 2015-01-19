@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<releves jour ="18/11" heure="11h48">
+	<releve nomSkipper="Loick Peyron" date="10/11/2014" heure="05:08:32"  />
+	<releve nomSkipper="Yann Guichard" date="10/11/2014" heure="19:18:46" />
+	<releve nomSkipper="Sebastien Josse" date="11/11/2014" heure="04:47:09" />
+	<releve nomSkipper="Lionel Lemonchoix" date="11/11/2014" heure="07:44:50" />
+	<releve nomSkipper="Sidney Gavinet" date="11/11/2014" heure="09:15:24" />
+	<releve nomSkipper="Francis Joyon" date="11/11/2014" heure="18:42:04" />
+	<releve nomSkipper="Yann Elies" date="11/11/2014" heure="19:48:15" />
+	<releve nomSkipper="Thomas Coville" etat="abandon" />
+
+
+	<releve nomSkipper="Francois Gabart" date="14/11/2014" heure="18:38:55" />
+	<releve nomSkipper="Jeremie Beyou" date="15/11/2014" heure="02:11:18" />
+	<releve nomSkipper="Marc Guillemot" date="15/11/2014" heure="15:59:20" />
+	<releve nomSkipper="Armel Tripon" date="16/11/2014" heure="04:04:04" />
+	<releve nomSkipper="Louis Burton" date="16/11/2014" heure="15:33:44" />
+	<releve nomSkipper="Alessandro Di Benedetto" distanceArrivee="75.45" />
+	<releve nomSkipper="Tanguy De Lamotte" distanceArrivee="128.08" />
+	<releve nomSkipper="Bertrand De Broc" etat="abandon" />
+	<releve nomSkipper="Vincent Riou" etat="abandon" />
+
+	<releve nomSkipper="Erwan Leroux" date="13/11/2014" heure="19:13:55" />
+	<releve nomSkipper="Lalou Roucayrol" date="14/11/2014" heure="11:29:10" />
+	<releve nomSkipper="Gilles Lamire" date="15/11/2014" heure="00:44:37" />
+	<releve nomSkipper="Yves Leblevec" date="15/11/2014" heure="01:10:18" />
+	<releve nomSkipper="Etienne Hochede" distanceArrivee="670.96" />
+	<releve nomSkipper="Erik Nigon" etat="abandon" />
+	<releve nomSkipper="Alain Delhumeau" etat="abandon" />
+	<releve nomSkipper="Pierre Antoine" etat="abandon" />
+	<releve nomSkipper="Gilles Buekenhout" etat="abandon" />
+	<releve nomSkipper="Loic Fequet" etat="abandon" />
+	<releve nomSkipper="Herve De carlan" etat="abandon" />
+
+	<releve nomSkipper="Alex Pella" distanceArrivee="143.33" />
+	<releve nomSkipper="Thibaut Vauchel-Camus" distanceArrivee="247.08" />
+	<releve nomSkipper="Kito De Pavant" distanceArrivee="266.31" />
+	<releve nomSkipper="Yannick Bestaven" distanceArrivee="298.64" />
+	<releve nomSkipper="Stephane Le Diraison" distanceArrivee="320.71" />
+	<releve nomSkipper="Pierre Brasseur" distanceArrivee="359.45" />
+	<releve nomSkipper="Fabrice Amadeo" distanceArrivee="378.28" />
+	<releve nomSkipper="Miranda Merron" distanceArrivee="470.08" />
+	<releve nomSkipper="Giancarlo Pedote" distanceArrivee="618.89" />
+	<releve nomSkipper="Damien Seguin" distanceArrivee="633.81" />
+	<releve nomSkipper="Valentin Lemarchand" distanceArrivee="644.92" />
+	<releve nomSkipper="Bertrand Delesne" distanceArrivee="753.91" />
+	<releve nomSkipper="Michel Kleinjans" distanceArrivee="760.28" />
+	<releve nomSkipper="Jean-Christophe Caso" distanceArrivee="766.12" />
+	<releve nomSkipper="Pierre-Yves Lautrou" distanceArrivee="779.73" />
+	<releve nomSkipper="Halvard Mabire" distanceArrivee="794.31" />
+	<releve nomSkipper="Jean-Edouard Criquioche" distanceArrivee="848.90" />
+	<releve nomSkipper="Juliette Petres" distanceArrivee="861.51" />
+	<releve nomSkipper="Jean Galfione" distanceArrivee="869.16" />
+	<releve nomSkipper="Emmanuel Hamez" distanceArrivee="922.91" />
+	<releve nomSkipper="Dominique Rivard" distanceArrivee="1000.19" />
+	<releve nomSkipper="Brieuc Maisonneuve" distanceArrivee="1020.41" />
+	<releve nomSkipper="Patrice Bougard" distanceArrivee="1035.42" />
+	<releve nomSkipper="Maxime Sorel" distanceArrivee="1086.04" />
+	<releve nomSkipper="Lionel Regnier" distanceArrivee="1089.06" />
+	<releve nomSkipper="Rodolphe Sepho" distanceArrivee="1160.92" />
+	<releve nomSkipper="Paul Hignard" distanceArrivee="1177.15" />
+	<releve nomSkipper="Philippe Fiston" distanceArrivee="1178.28" />
+	<releve nomSkipper="Olivier Roussey" distanceArrivee="1715.62" />
+	<releve nomSkipper="Antoine Michel" distanceArrivee="1726.85" />
+	<releve nomSkipper="Nicolas Thomas" distanceArrivee="1850.65" />
+	<releve nomSkipper="Vincent Lantin" distanceArrivee="2320.59" />
+	<releve nomSkipper="Alan Roura" etat="abandon" />
+	<releve nomSkipper="Christophe Coatnoan" etat="abandon" />
+	<releve nomSkipper="Nicolas Troussel" etat="abandon" />
+	<releve nomSkipper="Arnaud Boissieres" etat="abandon" />
+	<releve nomSkipper="Louis Duc" etat="abandon" />
+	<releve nomSkipper="Marc Lepesqueux" etat="abandon" />
+	<releve nomSkipper="Phillippa Hutton Square" etat="abandon" />
+	<releve nomSkipper="Sebastien Rogues" etat="abandon" />
+	<releve nomSkipper="Thierry Bouchard" etat="abandon" />
+	<releve nomSkipper="Conrad Humphreys" etat="abandon" />
+	<releve nomSkipper="Francois Angoulvant" etat="abandon" />
+ 
+	<releve nomSkipper="Anne Caseneuve" distanceArrivee="289.13" />
+	<releve nomSkipper="Wilfrid Clerton" distanceArrivee="946.61" />
+	<releve nomSkipper="Andrea Mura" distanceArrivee="967.42" />
+	<releve nomSkipper="Robin Knox-Johnston" distanceArrivee="1036.13" />
+	<releve nomSkipper="Jean-Paul Froc" distanceArrivee="1082.53" />
+	<releve nomSkipper="Willy Bissainte" distanceArrivee="1209.00" />
+	<releve nomSkipper="Pierre-Yves Chatelin" distanceArrivee="1233.56" />
+	<releve nomSkipper="Charlie Capelle" distanceArrivee="1351.03" />
+	<releve nomSkipper="Ari Huusela" distanceArrivee="1491.21" />
+	<releve nomSkipper="Christophe Souchaud" distanceArrivee="1853.34" />
+	<releve nomSkipper="Daniel Ecalard" distanceArrivee="1854.92" />
+	<releve nomSkipper="Pierrick Tollemer" distanceArrivee="2056.82" />
+	<releve nomSkipper="Luc Coquelin" distanceArrivee="2108.95" />
+
+	<releve nomSkipper="Eric Jail" distanceArrivee="2029.29" />
+	<releve nomSkipper="Ricardo Diniz" etat="abandon" />
+	<releve nomSkipper="Bob Escoffier" etat="abandon" />
+	<releve nomSkipper="Julien Mabit" etat="abandon" />
+	<releve nomSkipper="Benjamin Hardouin" etat="abandon" />
+	<releve nomSkipper="Patrick Morvan" etat="abandon" />
+	<releve nomSkipper="Nils Boyer" etat="abandon" />
+
+</releves>

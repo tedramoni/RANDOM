@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<releves jour ="03/11" heure="9h48" >
+
+	<releve nomSkipper="Loick Peyron" distanceArrivee="3253.94"/>
+	<releve nomSkipper="Sebastien Josse" distanceArrivee="3288.48"/>
+	<releve nomSkipper="Lionel Lemonchoix" distanceArrivee="3291.84"/>
+	<releve nomSkipper="Sidney Gavinet" distanceArrivee="3301.84"/>
+	<releve nomSkipper="Yann Elies" distanceArrivee="3305.00"/>
+	<releve nomSkipper="Yann Guichard" distanceArrivee="3309.06"/>
+	<releve nomSkipper="Francis Joyon" distanceArrivee="3321.48"/>
+	<releve nomSkipper="Thomas Coville"  etat="abandon"/>
+	
+	<releve nomSkipper="Francois Gabart" distanceArrivee="3332.29"/>
+	<releve nomSkipper="Vincent Riou" distanceArrivee="3335.91"/>
+	<releve nomSkipper="Marc Guillemot" distanceArrivee="3348.94"/>
+	<releve nomSkipper="Jeremie Beyou" distanceArrivee="3349.90"/>
+	<releve nomSkipper="Armel Tripon" distanceArrivee="3363.92"/>
+	<releve nomSkipper="Tanguy De Lamotte" distanceArrivee="3366.90"/>
+	<releve nomSkipper="Louis Burton" distanceArrivee="3370.85"/>
+	<releve nomSkipper="Bertrand De Broc" distanceArrivee="3373.33"/>
+	<releve nomSkipper="Alessandro Di Benedetto" distanceArrivee="3392.87"/>
+
+	<releve nomSkipper="Yves Leblevec" distanceArrivee="3344.25"/>
+	<releve nomSkipper="Erwan Leroux" distanceArrivee="3347.21"/>
+	<releve nomSkipper="Lalou Roucayrol" distanceArrivee="3361.38"/>
+	<releve nomSkipper="Pierre Antoine" distanceArrivee="3395.76"/>
+	<releve nomSkipper="Gilles Lamire" distanceArrivee="3397.34"/>
+	<releve nomSkipper="Alain Delhumeau" distanceArrivee="3398.02"/>
+	<releve nomSkipper="Etienne Hochede" distanceArrivee="3403.83"/>
+	<releve nomSkipper="Erik Nigon" distanceArrivee="3406.35"/>
+	<releve nomSkipper="Gilles Buekenhout" distanceArrivee="3436.39"/>
+	<releve nomSkipper="Herve De carlan" distanceArrivee="3478.44"/>
+	<releve nomSkipper="Loic Fequet"  etat="abandon"/>
+	
+	<releve nomSkipper="Sebastien Rogues" distanceArrivee="3393.85"/>
+	<releve nomSkipper="Louis Duc" distanceArrivee="3397.57"/>
+	<releve nomSkipper="Michel Kleinjans" distanceArrivee="3397.81"/>
+	<releve nomSkipper="Kito De Pavant" distanceArrivee="3397.92"/>
+	<releve nomSkipper="Thibaut Vauchel-Camus" distanceArrivee="3398.00"/>
+	<releve nomSkipper="Alex Pella" distanceArrivee="3398.17"/>
+	<releve nomSkipper="Damien Seguin" distanceArrivee="3398.35"/>
+	<releve nomSkipper="Valentin Lemarchand" distanceArrivee="3399.05"/>
+	<releve nomSkipper="Miranda Merron" distanceArrivee="3399.05"/>
+	<releve nomSkipper="Pierre Brasseur" distanceArrivee="3399.31"/>
+	<releve nomSkipper="Stephane Le Diraison" distanceArrivee="3399.45"/>
+	<releve nomSkipper="Halvard Mabire" distanceArrivee="3401.91"/>
+	<releve nomSkipper="Jean-Christophe Caso" distanceArrivee="3403.29"/>
+	<releve nomSkipper="Christophe Coatnoan" distanceArrivee="3403.78"/>
+	<releve nomSkipper="Pierre-Yves Lautrou" distanceArrivee="3403.87"/>
+	<releve nomSkipper="Fabrice Amadeo" distanceArrivee="3404.04"/>
+	<releve nomSkipper="Conrad Humphreys" distanceArrivee="3404.91"/>
+	<releve nomSkipper="Dominique Rivard" distanceArrivee="3406.65"/>
+	<releve nomSkipper="Nicolas Thomas" distanceArrivee="3409.88"/>
+	<releve nomSkipper="Lionel Regnier" distanceArrivee="3410.89"/>
+	<releve nomSkipper="Yannick Bestaven" distanceArrivee="3413.22"/>
+	<releve nomSkipper="Juliette Petres" distanceArrivee="3414.86"/>
+	<releve nomSkipper="Philippe Fiston" distanceArrivee="3414.93"/>
+	<releve nomSkipper="Arnaud Boissieres" distanceArrivee="3415.28"/>
+	<releve nomSkipper="Antoine Michel" distanceArrivee="3416.09"/>
+	<releve nomSkipper="Maxime Sorel" distanceArrivee="3416.28"/>
+	<releve nomSkipper="Nicolas Troussel" distanceArrivee="3417.12"/>
+	<releve nomSkipper="Patrice Bougard" distanceArrivee="3420.02"/>
+	<releve nomSkipper="Emmanuel Hamez" distanceArrivee="3420.54"/>
+	<releve nomSkipper="Vincent Lantin" distanceArrivee="3422.61"/>
+	<releve nomSkipper="Rodolphe Sepho" distanceArrivee="3423.00"/>
+	<releve nomSkipper="Phillippa Hutton Square" distanceArrivee="3423.93"/>
+	<releve nomSkipper="Olivier Roussey" distanceArrivee="3427.20"/>
+	<releve nomSkipper="Alan Roura" distanceArrivee="3431.91"/>
+	<releve nomSkipper="Paul Hignard" distanceArrivee="3436.19"/>
+	<releve nomSkipper="Jean-Edouard Criquioche" distanceArrivee="3439.22"/>
+	<releve nomSkipper="Bertrand Delesne" distanceArrivee="3449.88"/>
+	<releve nomSkipper="Giancarlo Pedote" distanceArrivee="3449.89"/>
+	<releve nomSkipper="Brieuc Maisonneuve" distanceArrivee="3451.08"/>
+	<releve nomSkipper="Thierry Bouchard" distanceArrivee="3492.93"/>
+	<releve nomSkipper="Jean Galfione" distanceArrivee="3493.08"/>
+	<releve nomSkipper="Marc Lepesqueux"  etat="abandon"/>
+	<releve nomSkipper="Francois Angoulvant"  etat="abandon"/>
+	
+	<releve nomSkipper="Andrea Mura" distanceArrivee="3389.30"/>
+	<releve nomSkipper="Anne Caseneuve" distanceArrivee="3407.72"/>
+	<releve nomSkipper="Patrick Morvan" distanceArrivee="3414.01"/>
+	<releve nomSkipper="Wilfrid Clerton" distanceArrivee="3415.39"/>
+	<releve nomSkipper="Luc Coquelin" distanceArrivee="3416.02"/>
+	<releve nomSkipper="Pierre-Yves Chatelin" distanceArrivee="3416.57"/>
+	<releve nomSkipper="Willy Bissainte" distanceArrivee="3417.43"/>
+	<releve nomSkipper="Julien Mabit" distanceArrivee="3420.12"/>
+	<releve nomSkipper="Jean-Paul Froc" distanceArrivee="3420.34"/>
+	<releve nomSkipper="Ari Huusela" distanceArrivee="3423.09"/>
+	<releve nomSkipper="Pierrick Tollemer" distanceArrivee="3425.78"/>
+	<releve nomSkipper="Eric Jail" distanceArrivee="3426.58"/>
+	<releve nomSkipper="Nils Boyer" distanceArrivee="3431.25"/>
+	<releve nomSkipper="Robin Knox-Johnston" distanceArrivee="3439.55"/>
+	<releve nomSkipper="Christophe Souchaud" distanceArrivee="3439.83"/>
+	<releve nomSkipper="Bob Escoffier" distanceArrivee="3449.88"/>
+	<releve nomSkipper="Benjamin Hardouin" distanceArrivee="3449.88"/>
+	<releve nomSkipper="Daniel Ecalard" distanceArrivee="3459.26"/>
+	<releve nomSkipper="Charlie Capelle" distanceArrivee="3523.75"/>
+	<releve nomSkipper="Ricardo Diniz" distanceArrivee="3549.92"/>
+	
+
+</releves>

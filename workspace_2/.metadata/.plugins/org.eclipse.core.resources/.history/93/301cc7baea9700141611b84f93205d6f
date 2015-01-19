@@ -1,0 +1,5 @@
+
+public interface FabriqueVoilier {
+	
+	public Voilier factoryMethod(String nom, String classeDuRhum);
+}

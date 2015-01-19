@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+ <voiliers annee ="2014">
+	<voilier nom="PRINCE DE BRETAGNE"  nomSkipper="Lionel Lemonchoix" classe="ULTIME" />
+	<voilier nom="MAXI SOLO BANQUE POPULAIRE VII"  nomSkipper="Loick Peyron" classe="ULTIME" />
+	<voilier nom="SODEBO ULTIM"  nomSkipper="Thomas Coville" classe="ULTIME" />
+	<voilier nom="MUSANDAM - OMAN SAIL"  nomSkipper="Sidney Gavinet" classe="ULTIME" />
+	<voilier nom="EDMOND DE ROTHSCHILD"  nomSkipper="Sebastien Josse" classe="ULTIME" />
+	<voilier nom="SPINDRIFT 2"  nomSkipper="Yann Guichard" classe="ULTIME" />
+	<voilier nom="PAPREC RECYCLAGE"  nomSkipper="Yann Elies" classe="ULTIME" />
+	<voilier nom="IDEC SPORT"  nomSkipper="Francis Joyon" classe="ULTIME" />
+
+	<voilier nom="MACIF"  nomSkipper="Francois Gabart" classe="IMOCA" />
+	<voilier nom="PRB"  nomSkipper="Vincent Riou" classe="IMOCA" />
+	<voilier nom="MAITRE COQ"  nomSkipper="Jeremie Beyou" classe="IMOCA" />
+	<voilier nom="SAFRAN"  nomSkipper="Marc Guillemot" classe="IMOCA" />
+	<voilier nom="INITIATIVES COEUR"  nomSkipper="Tanguy De Lamotte" classe="IMOCA" />
+	<voilier nom="VOTRE NOM AUTOUR DU MONDE"  nomSkipper="Bertrand De Broc" classe="IMOCA" />
+	<voilier nom="BUREAU VALLEE"  nomSkipper="Louis Burton" classe="IMOCA" />
+	<voilier nom="FOR HUMBLE HEROES"  nomSkipper="Armel Tripon" classe="IMOCA" />
+	<voilier nom="TEAM PLASTIQUE - AFM TELETHON"  nomSkipper="Alessandro Di Benedetto" classe="IMOCA" />
+	
+	<voilier nom="ACTUAL"  nomSkipper="Yves Leblevec" classe="MULTI_50" />
+	<voilier nom="FENETREA - CARDINAL"  nomSkipper="Erwan Leroux" classe="MULTI_50" />
+	<voilier nom="MAITRE JACQUES"  nomSkipper="Loic Fequet" classe="MULTI_50" />
+	<voilier nom="ARKEMA REGION AQUITAINE"  nomSkipper="Lalou Roucayrol" classe="MULTI_50" />
+	<voilier nom="VERS UN MONDE SANS SIDA"  nomSkipper="Erik Nigon" classe="MULTI_50" />
+	<voilier nom="OLMIX"  nomSkipper="Pierre Antoine" classe="MULTI_50" />
+	<voilier nom="NOOTKA POUR ARCHITECTES DE L'URGENCE"  nomSkipper="Gilles Buekenhout" classe="MULTI_50" />
+	<voilier nom="RENNES METROPOLE - SAINT MALO AGGLOMERATION"  nomSkipper="Gilles Lamire" classe="MULTI_50" />
+	<voilier nom="PIRE CCI FECAMP BOLBEC"  nomSkipper="Etienne Hochede" classe="MULTI_50" />
+	<voilier nom="ROYAN"  nomSkipper="Alain Delhumeau" classe="MULTI_50" />
+	<voilier nom="DELIRIUM"  nomSkipper="Herve De carlan" classe="MULTI_50" />
+	
+	<voilier nom="GDF SUEZ"  nomSkipper="Sebastien Rogues" classe="CLASS40" />
+	<voilier nom="THALES 2"  nomSkipper="Alex Pella" classe="CLASS40" />
+	<voilier nom="OTIO - BASTIDE MEDICAL"  nomSkipper="Kito De Pavant" classe="CLASS40" />
+	<voilier nom="GUADELOUPE GRAND LARGE 1001 PILES BATTERIES"  nomSkipper="Nicolas Thomas" classe="CLASS40" />
+	<voilier nom="LE CONSERVATEUR"  nomSkipper="Yannick Bestaven" classe="CLASS40" />
+	<voilier nom="GROUPEMENT FLO"  nomSkipper="Brieuc Maisonneuve" classe="CLASS40" />
+	<voilier nom="VISIT BRUSSELS"  nomSkipper="Michel Kleinjans" classe="CLASS40" />
+	<voilier nom="SOLIDAIRES EN PELOTON"  nomSkipper="Thibaut Vauchel-Camus" classe="CLASS40" />
+	<voilier nom="ADVANCED ENERGIES CARAC"  nomSkipper="Louis Duc" classe="CLASS40" />
+	<voilier nom="TEAMWORK40"  nomSkipper="Bertrand Delesne" classe="CLASS40" />
+	<voilier nom="FANTASTICA"  nomSkipper="Giancarlo Pedote" classe="CLASS40" />
+	<voilier nom="CREDIT MUTUEL DE BRETAGNE"  nomSkipper="Nicolas Troussel" classe="CLASS40" />
+	<voilier nom="APRIL"  nomSkipper="Lionel Regnier" classe="CLASS40" />
+	<voilier nom="KOGANE"  nomSkipper="Patrice Bougard" classe="CLASS40" />
+	<voilier nom="MATOUBA"  nomSkipper="Pierre Brasseur" classe="CLASS40" />
+	<voilier nom="ERDF - DES PIEDS ET DES MAINS"  nomSkipper="Damien Seguin" classe="CLASS40" />
+	<voilier nom="VILLE DE SAINTE ANNE - GUADELOUPE"  nomSkipper="Philippe Fiston" classe="CLASS40" />
+	<voilier nom="MAISON TIREL GUERIN"  nomSkipper="Valentin Lemarchand" classe="CLASS40" />
+	<voilier nom="WALLFO.COM"  nomSkipper="Thierry Bouchard" classe="CLASS40" />
+	<voilier nom="CAP WEST"  nomSkipper="Marc Lepesqueux" classe="CLASS40" />
+	<voilier nom="AEROCAMPUS DU RHUM AU GLOBE"  nomSkipper="Arnaud Boissieres" classe="CLASS40" />
+	<voilier nom="IXBLUE - BRS"  nomSkipper="Stephane Le Diraison" classe="CLASS40" />
+	<voilier nom="TERANGA"  nomSkipper="Emmanuel Hamez" classe="CLASS40" />
+	<voilier nom="CATPHONES - BUILT FOR IT"  nomSkipper="Conrad Humphreys" classe="CLASS40" />
+	<voilier nom="CAMPAGNE DE FRANCE"  nomSkipper="Miranda Merron" classe="CLASS40" />
+	<voilier nom="VandB / MS SAILING TEAM"  nomSkipper="Maxime Sorel" classe="CLASS40" />
+	<voilier nom="BRUNEAU"  nomSkipper="Paul Hignard" classe="CLASS40" />
+	<voilier nom="L'EXPRESS - TREPIA"  nomSkipper="Pierre-Yves Lautrou" classe="CLASS40" />
+	<voilier nom="PICOTY - LAC DE VASSIVIERE"  nomSkipper="Jean-Christophe Caso" classe="CLASS40" />
+	<voilier nom="SWISH"  nomSkipper="Phillippa Hutton Square" classe="CLASS40" />
+	<voilier nom="SNCF GEODIS - NEWREST"  nomSkipper="Fabrice Amadeo" classe="CLASS40" />
+	<voilier nom="VOILES 44"  nomSkipper="Rodolphe Sepho" classe="CLASS40" />
+	<voilier nom="SERENIS CONSULTING"  nomSkipper="Jean Galfione" classe="CLASS40" />
+	<voilier nom="MARIE - GALANTE"  nomSkipper="Dominique Rivard" classe="CLASS40" />
+	<voilier nom="NORMANDIE SUSSEX"  nomSkipper="Christophe Coatnoan" classe="CLASS40" />
+	<voilier nom="CAMPAGNE 2 FRANCE"  nomSkipper="Halvard Mabire" classe="CLASS40" />
+	<voilier nom="TEAM SABROSA SR40 mk2"  nomSkipper="Francois Angoulvant" classe="CLASS40" />
+	<voilier nom="SETTI LTD"  nomSkipper="Antoine Michel" classe="CLASS40" />
+	<voilier nom="EXOCET"  nomSkipper="Alan Roura" classe="CLASS40" />
+	<voilier nom="EAU ET PATRIMOINE"  nomSkipper="Juliette Petres" classe="CLASS40" />
+	<voilier nom="LE SLIP FRANCAIS"  nomSkipper="Vincent Lantin" classe="CLASS40" />
+	<voilier nom="OBPORTUS - CONSEIL REGIONAL DE LORRAINE"  nomSkipper="Olivier Roussey" classe="CLASS40" />
+	<voilier nom="REGION HAUTE NORMANDIE"  nomSkipper="Jean-Edouard Criquioche" classe="CLASS40" />
+	
+	<voilier nom="VENTO DI SARDEGNA"  nomSkipper="Andrea Mura" classe="RHUM" monocoque="oui"/>
+	<voilier nom="ORTIS"  nomSkipper="Patrick Morvan" classe="RHUM" monocoque="non"/>
+	<voilier nom="CAP AU CAP LOCATION"  nomSkipper="Wilfrid Clerton" classe="RHUM" monocoque="oui"/>
+	<voilier nom="ACAPELLA"  nomSkipper="Charlie Capelle" classe="RHUM" monocoque="non"/>
+	<voilier nom="ANEO"  nomSkipper="Anne Caseneuve" classe="RHUM" monocoque="non"/>
+	<voilier nom="KRIT'R V"  nomSkipper="Benjamin Hardouin" classe="RHUM" monocoque="oui"/>
+	<voilier nom="GUADELOUPE DYNAMIQUE"  nomSkipper="Luc Coquelin" classe="RHUM" monocoque="oui"/>
+	<voilier nom="KOMILFO"  nomSkipper="Julien Mabit" classe="RHUM" monocoque="non"/>
+	<voilier nom="GROUPE GUISNEL"  nomSkipper="Bob Escoffier" classe="RHUM" monocoque="oui"/>
+	<voilier nom="GROUPE BERTO"  nomSkipper="Jean-Paul Froc" classe="RHUM" monocoque="non"/>
+	<voilier nom="GREY POWER"  nomSkipper="Robin Knox-Johnston" classe="RHUM" monocoque="oui"/>
+	<voilier nom="TRADYSION GWADLOUP"  nomSkipper="Willy Bissainte" classe="RHUM" monocoque="oui"/>
+	<voilier nom="RHUM SOLITAIRE RHUM SOLIDAIRE"  nomSkipper="Christophe Souchaud" classe="RHUM" monocoque="oui"/>
+	<voilier nom="ENSEMBLE POUR ENTREPRENDRE"  nomSkipper="Pierrick Tollemer" classe="RHUM" monocoque="non"/>
+	<voilier nom="LET'S GO"  nomSkipper="Nils Boyer" classe="RHUM" monocoque="oui"/>
+	<voilier nom="NESTE OIL"  nomSkipper="Ari Huusela" classe="RHUM" monocoque="oui"/>
+	<voilier nom="DEFI MARTINIQUE"  nomSkipper="Daniel Ecalard" classe="RHUM" monocoque="oui"/>
+	<voilier nom="DEFI CAT"  nomSkipper="Eric Jail" classe="RHUM" monocoque="oui"/>
+	<voilier nom="DESTINATION CALAIS"  nomSkipper="Pierre-Yves Chatelin" classe="RHUM" monocoque="oui"/>
+	<voilier nom="PARISASIA.FR"  nomSkipper="Ricardo Diniz" classe="RHUM" monocoque="oui"/>
+
+</voiliers>

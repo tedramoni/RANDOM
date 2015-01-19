@@ -1,0 +1,14 @@
+
+public class FabriqueMulticoque implements FabriqueVoilier{
+
+	public void factoryMethod(String nom, String classeDuRhum) {
+		
+		switch (classeDuRhum)
+       	{
+		case "RHUM": new RHUM_Multi(nom); break;
+       	case "MULTI_50" : new MULTI_50(nom); break;
+       	case "ULTIME": 	new ULTIME(nom);  break;
+       }
+	}
+
+}

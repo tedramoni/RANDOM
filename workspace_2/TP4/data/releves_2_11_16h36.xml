@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="iso-8859-1" ?> 
+
+<releves jour ="02/11" heure="16h36">
+	<releve nomSkipper="Andrea Mura" distanceArrivee="3534.63" />
+	<releve nomSkipper="Patrick Morvan" distanceArrivee="3536.36" />
+	<releve nomSkipper="Wilfrid Clerton" distanceArrivee="3537.41" />
+	<releve nomSkipper="Charlie Capelle" distanceArrivee="3537.96" />
+	<releve nomSkipper="Anne Caseneuve" distanceArrivee="3537.98" />
+	<releve nomSkipper="Benjamin Hardouin" distanceArrivee="3538.29" />
+	<releve nomSkipper="Luc Coquelin" distanceArrivee="3539.24" />
+	<releve nomSkipper="Julien Mabit" distanceArrivee="3539.34" />
+	<releve nomSkipper="Bob Escoffier" distanceArrivee="3539.35" />
+	<releve nomSkipper="Jean-Paul Froc" distanceArrivee="3539.99" />
+	<releve nomSkipper="Robin Knox-Johnston" distanceArrivee="3540.13" />
+	<releve nomSkipper="Willy Bissainte" distanceArrivee="3540.16" />
+	<releve nomSkipper="Christophe Souchaud" distanceArrivee="3540.96" />
+	<releve nomSkipper="Pierrick Tollemer" distanceArrivee="3541.09" />
+	<releve nomSkipper="Nils Boyer" distanceArrivee="3541.09" />
+	<releve nomSkipper="Ari Huusela" distanceArrivee="3541.62" />
+	<releve nomSkipper="Daniel Ecalard" distanceArrivee="3541.83" />
+	<releve nomSkipper="Eric Jail" distanceArrivee="3542.44" />
+	<releve nomSkipper="Pierre-Yves Chatelin" distanceArrivee="3543.43" />
+	<releve nomSkipper="Ricardo Diniz" distanceArrivee="3548.82" />
+	
+	<releve nomSkipper="Sebastien Rogues" distanceArrivee="3535.13" />
+	<releve nomSkipper="Alex Pella" distanceArrivee="3535.85" />
+	<releve nomSkipper="Kito De Pavant" distanceArrivee="3536.07" />
+	<releve nomSkipper="Nicolas Thomas" distanceArrivee="3536.15" />
+	<releve nomSkipper="Yannick Bestaven" distanceArrivee="3536.60" />
+	<releve nomSkipper="Brieuc Maisonneuve" distanceArrivee="3536.74" />
+	<releve nomSkipper="Michel Kleinjans" distanceArrivee="3536.92" />
+	<releve nomSkipper="Thibaut Vauchel-Camus" distanceArrivee="3537.05" />
+	<releve nomSkipper="Louis Duc" distanceArrivee="3537.11" />
+	<releve nomSkipper="Bertrand Delesne" distanceArrivee="3537.29" />
+	<releve nomSkipper="Giancarlo Pedote" distanceArrivee="3537.43" />
+	<releve nomSkipper="Nicolas Troussel" distanceArrivee="3537.54" />
+	<releve nomSkipper="Lionel Regnier" distanceArrivee="3537.75" />
+	<releve nomSkipper="Patrice Bougard" distanceArrivee="3537.81" />
+	<releve nomSkipper="Pierre Brasseur" distanceArrivee="3537.87" />
+	<releve nomSkipper="Damien Seguin" distanceArrivee="3538.00" />
+	<releve nomSkipper="Philippe Fiston" distanceArrivee="3538.13" />
+	<releve nomSkipper="Valentin Lemarchand" distanceArrivee="3538.18" />
+	<releve nomSkipper="Thierry Bouchard" distanceArrivee="3538.18" />
+	<releve nomSkipper="Marc Lepesqueux" distanceArrivee="3538.36" />
+	<releve nomSkipper="Arnaud Boissieres" distanceArrivee="3538.43" />
+	<releve nomSkipper="Stephane Le Diraison" distanceArrivee="3538.72" />
+	<releve nomSkipper="Emmanuel Hamez" distanceArrivee="3538.74" />
+	<releve nomSkipper="Conrad Humphreys" distanceArrivee="3538.77" />
+	<releve nomSkipper="Miranda Merron" distanceArrivee="3538.83" />
+	<releve nomSkipper="Maxime Sorel" distanceArrivee="3538.86" />
+	<releve nomSkipper="Paul Hignard" distanceArrivee="3538.99" />
+	<releve nomSkipper="Pierre-Yves Lautrou" distanceArrivee="3539.06" />
+	<releve nomSkipper="Jean-Christophe Caso" distanceArrivee="3539.10" />
+	<releve nomSkipper="Phillippa Hutton Square" distanceArrivee="3539.19" />
+	<releve nomSkipper="Fabrice Amadeo" distanceArrivee="3539.23" />
+	<releve nomSkipper="Rodolphe Sepho" distanceArrivee="3539.28" />
+	<releve nomSkipper="Jean Galfione" distanceArrivee="3539.34" />
+	<releve nomSkipper="Dominique Rivard" distanceArrivee="3539.39" />
+	<releve nomSkipper="Christophe Coatnoan" distanceArrivee="3539.54" />
+	<releve nomSkipper="Halvard Mabire" distanceArrivee="3539.54" />
+	<releve nomSkipper="Francois Angoulvant" distanceArrivee="3539.55" />
+	<releve nomSkipper="Antoine Michel" distanceArrivee="3539.82" />
+	<releve nomSkipper="Alan Roura" distanceArrivee="3540.23" />
+	<releve nomSkipper="Juliette Petres" distanceArrivee="3540.58" />
+	<releve nomSkipper="Vincent Lantin" distanceArrivee="3540.66" />
+	<releve nomSkipper="Olivier Roussey" distanceArrivee="3541.10" />
+	<releve nomSkipper="Jean-Edouard Criquioche" distanceArrivee="3549.45" />
+	
+	<releve nomSkipper="Yves Leblevec" distanceArrivee="3519.07" />
+	<releve nomSkipper="Erwan Leroux" distanceArrivee="3520.58" />
+	<releve nomSkipper="Loic Fequet" distanceArrivee="3521.22" />
+	<releve nomSkipper="Lalou Roucayrol" distanceArrivee="3521.63" />
+	<releve nomSkipper="Erik Nigon" distanceArrivee="3530.45" />
+	<releve nomSkipper="Pierre Antoine" distanceArrivee="3531.99" />
+	<releve nomSkipper="Gilles Buekenhout" distanceArrivee="3534.56" />
+	<releve nomSkipper="Gilles Lamire" distanceArrivee="3534.90" />
+	<releve nomSkipper="Etienne Hochede" distanceArrivee="3537.12" />
+	<releve nomSkipper="Alain Delhumeau" distanceArrivee="3538.83" />
+	<releve nomSkipper="Herve De carlan" distanceArrivee="3542.65" />
+	
+	<releve nomSkipper="Francois Gabart" distanceArrivee="3506.35" />
+	<releve nomSkipper="Vincent Riou" distanceArrivee="3506.48" />
+	<releve nomSkipper="Jeremie Beyou" distanceArrivee="3507.94" />
+	<releve nomSkipper="Marc Guillemot" distanceArrivee="3508.72" />
+	<releve nomSkipper="Tanguy De Lamotte" distanceArrivee="3510.27" />
+	<releve nomSkipper="Bertrand De Broc" distanceArrivee="3510.35" />
+	<releve nomSkipper="Louis Burton" distanceArrivee="3510.54" />
+	<releve nomSkipper="Armel Tripon" distanceArrivee="3511.18" />
+	<releve nomSkipper="Alessandro Di Benedetto" distanceArrivee="3517.64" />
+	
+	<releve nomSkipper="Lionel Lemonchoix" distanceArrivee="3492.08" />
+	<releve nomSkipper="Loick Peyron" distanceArrivee="3492.72" />
+	<releve nomSkipper="Thomas Coville" distanceArrivee="3492.89" />
+	<releve nomSkipper="Sidney Gavinet" distanceArrivee="3493.36" />
+	<releve nomSkipper="Sebastien Josse" distanceArrivee="3494.92" />
+	<releve nomSkipper="Yann Guichard" distanceArrivee="3496.20" />
+	<releve nomSkipper="Yann Elies" distanceArrivee="3497.10" />
+	<releve nomSkipper="Francis Joyon" distanceArrivee="3499.17" />
+
+</releves>

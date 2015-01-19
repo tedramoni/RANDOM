@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+	<head>
+		<title>Bonjour</title>
+		
+		<script type="text/javascript" language="JavaScript">
+			var asyncRequest;
+			function afficheSelection()
+			{
+				try
+				{
+					asyncRequest = new XMLHttpRequest(); // Création de l'objet requête
+					//enregistre le gestionnaire d'evts
+					asyncRequest.onreadystatechange = callbackAffichageUnFilm;
+					asyncRequest.open('GET','films.xml',true); // Préparation de la requête
+					asyncRequest.send(null); //Envoi de la requête
+				}
+				catch ( exception ) { alert('Request failed.'); }// fin catch
+			} //afficheSelection()
+			
+			function callbackAffichageUnFilm()
+			{
+				if(asyncRequest.readyState==4 && asyncRequest.status == 200)
+				{
+					var touslesfilms = asyncRequest.responseXML.getElementsByTagName("film");
+					var lefilm = touslesfilms[document.getElementById("choix").selectedIndex];
+					//document.getElementById('contentArea');
+					document.getElementById('contentArea').innerHTML = "Resume : "+lefilm.getElementsByTagName("resume")[0].firstChild.nodeValue;
+				}
+			}
+		</script>
+	</head>
+	
+	<body>
+	
+		<form name="choixFilm">
+			<p class="double">
+				<label>Choisissez un film :</label>
+				<select id="choix" name="film">
+					<option selected = "selected">Qu'est-ce qu'on a fait au bon Dieu </option>
+					<option>Inception</option>
+				</select>
+			</p>
+			<p class="simple"> <input type="button" value="Envoyer" onClick="afficheSelection()"/> </p>
+		</form>
+		
+		<div id="contentArea"></div>
+	</body>
+</html>

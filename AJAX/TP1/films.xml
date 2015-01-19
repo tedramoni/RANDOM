@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859"?>
+<?xml-stylesheet type="application/xml" href="Style.xsl"?>
+
+<films proprietaire="Jean">
+	<film nationalite="fr" genre="Comédie" annee="2014">
+		<titre>Qu'est-ce qu'on a fait au bon Dieu ?</titre>
+		<image adresse="http://images.allocine.fr/r_160_240/b_1_d6d6d6/pictures/14/03/04/14/58/474265.jpg"/>
+		<realisateur>Philippe de Chauveron</realisateur>
+		<acteurs>
+			<acteur>Christian Clavier</acteur>
+			<acteur>Chantal Lauby</acteur>
+			<acteur>Frederic Chau</acteur>
+			<acteur>Medi Sadoun</acteur>
+			<acteur>Ary Abittan</acteur>
+			<acteur>Noom Diawara</acteur>
+			<acteur>Élodie Fontan</acteur>
+		</acteurs>
+		<resume>Claude et Marie Verneuil, issus de la grande bourgeoisie catholique provinciale sont des parents plutôt "vieille France". Mais ils se sont toujours obligés à faire preuve d'ouverture d'esprit...Les pilules furent cependant bien difficiles à avaler quand leur première fille épousa un musulman, leur seconde un juif et leur troisième un chinois.
+Leurs espoirs de voir enfin l'une d'elles se marier à l'église se cristallisent donc sur la cadette, qui, alléluia, vient de rencontrer un bon catholique...</resume>
+	</film>	
+		
+	<film nationalite="am, br" genre="Science-Fiction, Thriller" annee="2010">
+		<titre>Inception</titre>
+		<image adresse="http://fr.web.img6.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/72/34/14/19476654.jpg"/>
+		<realisateur>Christopher Nolan</realisateur>
+		<acteurs>
+			<acteur>Leonardo DiCaprio</acteur>
+			<acteur>Joseph Gordon-Levitt</acteur>
+			<acteur>Ellen Page</acteur>
+			<acteur>Cillian Murphy</acteur>
+			<acteur>Tom Hardy</acteur>
+			<acteur>Dileep Rao</acteur>
+			<acteur>Marion Cotillard</acteur>
+		</acteurs>
+			<resume>Dom Cobb est un voleur expérimenté – le meilleur qui soit dans l’art périlleux de <important>l’extraction</important> : sa spécialité consiste à s’approprier les secrets les plus précieux d’un individu, enfouis au plus profond de son subconscient, pendant qu’il rêve et que son esprit est particulièrement vulnérable. Très recherché pour ses talents dans l’univers trouble de l’espionnage industriel, Cobb est aussi devenu un fugitif traqué dans le monde entier qui a perdu tout ce qui lui est cher. Mais une ultime mission pourrait lui permettre de retrouver sa vie d’avant – à condition qu’il puisse accomplir l’impossible : <important>l’inception</important>. Au lieu de subtiliser un rêve, Cobb et son équipe doivent faire l’inverse : implanter une idée dans l’esprit d’un individu. S’ils y parviennent, il pourrait s’agir du <important>crime parfait</important>. Et pourtant, aussi méthodiques et doués soient-ils, rien n’aurait pu préparer Cobb et ses partenaires à un <important>ennemi redoutable</important> qui semble avoir systématiquement un coup d’avance sur eux. Un ennemi dont seul Cobb aurait pu soupçonner l’existence. </resume>
+	</film>
+</films>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+	<head>
+		<title>Bonjour</title>
+		
+		<script type="text/javascript" language="JavaScript">
+			var xhr;
+			function submitForm()
+			{
+				try
+				{
+					var urlPHP = "newfilm.php";
+					var urlXML = "test.xml";
+					/*var arr=Form.getElementsByName("acteurs");
+					var arr2=[];
+					for (var i=0;i<arr.length;i++) {
+						if (arr[i].name == "acteurs") {
+						   arr2[arr2.length]=arr[i];
+						}
+					}
+					alert(arr2);*/
+					// À finir
+					
+					xhr = new XMLHttpRequest(); // Création de l'objet requête
+					xhr.open('POST', urlPHP,true); // Préparation de la requête
+					xhr.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+					xhr.send("titre="+document.saisieFilm.titre.value+"&annee="+document.saisieFilm.annee.value+
+						"&adresse="+document.saisieFilm.adresse.value+"&realisateur="+document.saisieFilm.realisateur.value+
+						"&acteurs="+arr2); //Envoi de la requête
+					xhr.onreadystatechange = function()
+					{
+						if(xhr.readyState==4 && xhr.status == 200)
+							alert(xhr.responseText);
+					}
+				}
+				catch ( exception ) { alert('Request failed.'); }// fin catch
+				
+			}
+			
+			function addActeur(tableID) 
+			{
+				var table = document.getElementById(tableID);
+				var rowCount = table.rows.length;
+				if(rowCount < 20) // limit the user from creating fields more than your limits
+				{							
+					var row = table.insertRow(rowCount);
+					var colCount = table.rows[0].cells.length;
+					for(var i=0; i<colCount; i++) 
+					{
+						var newcell = row.insertCell(i);
+						newcell.innerHTML = table.rows[0].cells[i].innerHTML;
+					}
+				}
+				else
+				{
+					alert("Vous ne pouvez avoir plus de 20 acteurs");
+			   
+				}
+			}
+			
+		</script>
+	</head>
+	
+	<body>
+	
+		<form id="formulaire" name="saisieFilm" method="POST">
+			<p class="double">
+				<label>Titre :</label>
+				<input type="text" name="titre" size="20"/>
+			</p>
+			<p class="double">
+				<label>Année :</label>
+				<input type="text" name="annee" size="4"/>
+			</p>
+			<p class="double">
+				<label>Adresse de l'image :</label>
+				<input type="text" name="adresse" size="20"/>
+			</p>
+		
+			<p class="double">
+				<label>Réalisateur :</label>
+				<input type="text" name="realisateur" size="20"/>
+			</p>
+			<table id="acteurs">
+				<tr>
+					<td>
+						<p class="double">
+							<label>Acteur :</label>
+							<input type="text" name="acteurs" size="20"/>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<p class="simple"> <input type="button" value="Ajouter un acteur" onClick="addActeur('acteurs')"/> </p><br/>
+			
+			
+			
+			<p class="simple"> <input type="button" value="Envoyer" onClick="submitForm()"/> </p>
+		</form>
+		
+		<div id="messages"></div>
+	</body>
+</html>
